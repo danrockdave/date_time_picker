@@ -168,7 +168,7 @@ class DateTimePicker extends FormField<String> {
     String? initialValue,
     FocusNode? focusNode,
     InputDecoration? decoration,
-    TextInputType keyboardType,
+    TextInputType? keyboardType,
     TextCapitalization textCapitalization = TextCapitalization.none,
     TextInputAction? textInputAction,
     TextStyle? style,
